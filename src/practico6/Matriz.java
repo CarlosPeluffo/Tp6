@@ -31,7 +31,7 @@ public class Matriz {
         
     }
     
-    /*Otra forma para generar la matriz
+    /*Otra forma para generar la matriz:
     public void armarDos(int num, int num2){
         int matriz[][]= new int[4][];
         matriz[0]= new int[4];
